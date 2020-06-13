@@ -8,6 +8,9 @@
  *
  * @author Alexander
  */
-public class NewClass {
+public class CodigoF {
+    public static void main(String[] args){
+        System.out.println("Salu2");
+    }
     
 }
